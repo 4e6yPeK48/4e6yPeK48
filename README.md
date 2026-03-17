@@ -1,96 +1,58 @@
-# 👋 Привет, я Матвей Чупрына! / Hi, I'm Matvey Chupryna!
+# Матвей Чупрына
 
-Я студент 2-го курса **Национального исследовательского университета «Высшая школа экономики» (НИУ ВШЭ)**, обучаюсь по программе "Прикладная математика и информатика".
+Backend-разработчик (Python). Студент ПМИ ВШЭ.  
+Интерес: высоконагруженные системы, асинхронная архитектура, инфраструктура, ML.
 
-💻 Увлечен промышленным программированием, системным мышлением и современными технологиями. Активно применяю DevOps-инструменты и интересуюсь сферой ИИ. Имею опыт как в backend-разработке, так и в создании пользовательских интерфейсов, а также в администрировании серверов.
+## Стек
 
----
+**Backend:**  
+Python, FastAPI, Flask, aiohttp, aiogram, asyncio, SQLAlchemy, pytest
 
-## 🛠️ Мой стек / My Tech Stack
+**ML / Data:**  
+pandas, NumPy, scikit-learn, RAPIDS, Optuna, feature engineering, time-series CV
 
-### Языки программирования / Programming Languages:
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
+**Базы данных и брокеры:**  
+PostgreSQL, MySQL/MariaDB, SQLite, Redis, RabbitMQ
 
-### Фреймворки и Библиотеки / Frameworks & Libraries:
-<p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <p>Также: <code>SQLAlchemy</code>, <code>asyncio</code>, <code>pytest</code></p>
-</p>
+**DevOps / Инфраструктура:**  
+Linux, Docker, Docker Compose, Nginx, GitHub Actions, Prometheus, Grafana
 
-### DevOps, Инфраструктура и Базы Данных / DevOps, Infrastructure & Databases:
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="githubactions" width="40" height="40"/> </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <p>Также: <code>Postfix</code>, <code>Dovecot</code>, <code>systemd</code>, <code>UFW</code>, <code>Let's Encrypt (SSL)</code>, <code>Xray/VLESS (VPN)</code>, <code>PowerShell</code></p>
-</p>
+**CS:**  
+C++, алгоритмы и структуры данных, системный анализ
 
----
+## Проекты
 
-## 🚀 Мои проекты и достижения / My Projects & Achievements
+**LLM Browser Agent**  
+Агент для автоматизации действий в браузере (Playwright + LLM).  
+Модульная архитектура, работа с DOM, защита от опасных действий.
 
-* 🏆 **Чат-бот для "Международный аэропорт Шереметьево"**: Разработал и представил рабочий прототип для автоматизации задач сотрудников компании. 
-* 🛠️ **Администрирование собственного VPS на Ubuntu**: Полная настройка и поддержка сервера, включая веб-сервер (Nginx), почтовый сервер (Postfix, Dovecot), VPN (Xray/VLESS), Docker, CI/CD (GitHub Actions), базы данных (MariaDB) и SSL (Let's Encrypt).
-* 🥇 **Курс "Основы промышленного программирования" от Яндекса**: Успешно окончил двухгодичный курс с отличием.
-* 🏅 **Призер и победитель хакатонов и олимпиад**: Участник и призер хакатона от компании "2ГИС", многократный призер и победитель проектных работ (Юниквант, Шаг в будущее, Цифровой ветер и др.).
-* 🌍 Участник международной конференции "International Scientific and Practical Conference 'SCIENTIA UNESCAMUS'".
+**Media Downloader Service**  
+Высоконагруженный сервис загрузки медиа (Telegram + yt-dlp).  
+Очереди и кэширование через Redis, обход ограничений Telegram.
 
----
+**B2B система записи**  
+Backend на FastAPI: REST API, асинхронные интеграции, фоновые задачи.
 
-## 🌱 Что меня интересует сейчас / What I'm Currently Focusing On
+**Dota 2 Match Prediction (ML)**  
+ML-пайплайн (ROC-AUC 0.70): feature engineering, temporal CV, стекинг моделей.
 
-* Углубленное изучение **backend-разработки** на Python и C++.
-* Расширение знаний в области **DevOps** и облачных технологий.
-* Практическое применение **алгоритмов и структур данных** в сложных проектах.
-* Исследование возможностей **Искусственного Интеллекта (ИИ)** и машинного обучения.
+**CLI-анализатор логов Nginx**  
+Анализ p95/p99, потоковая обработка, интеграция в Linux-пайплайны.
 
----
+## Опыт
 
-## 📫 Как связаться / How to Reach Me
+- Разработка прототипа чат-бота для Шереметьево  
+- Полная настройка и поддержка VPS (Docker, CI/CD, Nginx, VPN, почта)  
+- Учебный ассистент по C++ в ВШЭ  
 
-* 📧 **Email:** `mmchupryna@edu.hse.ru`
-* 📞 **Telegram:** `@m4estro48`
+## Образование
+
+НИУ ВШЭ, ПМИ (2024–2028)  
+GPA: 8.96  
+Курсы: Промышленная разработка на Python (Яндекс; с отличием), Реляционные БД (ТГУ; с отличием)
+
+## Контакты
+
+Email: mmchupryna@edu.hse.ru  
+Telegram: @m4estro888  
+GitHub: https://github.com/4e6yPeK48
