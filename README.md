@@ -1,58 +1,45 @@
-# Матвей Чупрына
+## Матвей Чупрына | Software Engineer (Backend & QA Automation)
 
-Backend-разработчик (Python). Студент ПМИ ВШЭ.  
-Интерес: высоконагруженные системы, асинхронная архитектура, инфраструктура, ML.
+Специализируюсь на бэкенд-разработке, выстраивании процессов автоматизированного тестирования для высоконагруженных систем (HighLoad) и оптимизации CI/CD.
 
-## Стек
+### Профессиональный опыт
 
-**Backend:**  
-Python, FastAPI, Flask, aiohttp, aiogram, asyncio, SQLAlchemy, pytest
+**QA Automation Engineer — Авито (Отдел автоматической модерации) | 05.2026 — н.в.** 
+* Внедрил 200+ E2E и интеграционных тестов (Golang/Python) для микросервисов автомодерации, обрабатывающих миллионы публикаций в день.
+* Оптимизировал CI/CD: устранил flaky-тесты и автоматизировал проверки, сократив время регресса с 40 до 7 минут и ускорив релизные циклы.
+* Снизил процент ложных срабатываний (False Positive/Negative) при блокировках контента за счет точечного покрытия граничных сценариев.
+* Локализовал узкие места архитектуры при пиковых нагрузках (Prometheus, Grafana, Sentry) и проводил разборы инцидентов (Live Site Review).
+* Наладил процессы тестирования интеграций с DataWarehouse с соблюдением стандартов Data Privacy в рамках Agile/Scrum.
 
-**ML / Data:**  
-pandas, NumPy, scikit-learn, RAPIDS, Optuna, feature engineering, time-series CV
+**DevOps / QA Engineer — Совместный проект с Т-Банк | 09.2025 — 05.2026**
+* Разработал QA и DevOps пайплайны для мультиплеерной бизнес-игры в составе кросс-функциональной команды (6 человек).
+* Защитил MVP проекта (оценка 9/10) с прямой рекомендацией техлида к масштабированию в production.
 
-**Базы данных и брокеры:**  
-PostgreSQL, MySQL/MariaDB, SQLite, Redis, RabbitMQ
+**Ассистент преподавателя (C++) — НИУ ВШЭ | 2025 — 2026**
+* Проводил code review и аудит архитектурных решений для 30+ студентов.
+* Настраивал CI/CD пайплайны для автоматического тестирования студенческого кода.
 
-**DevOps / Инфраструктура:**  
-Linux, Docker, Docker Compose, Nginx, GitHub Actions, Prometheus, Grafana
+---
 
-**CS:**  
-C++, алгоритмы и структуры данных, системный анализ
+### Технологический стек
 
-## Проекты
+* **Языки программирования:** Python (asyncio, FastAPI), Golang, C++, SQL, JS/TS
+* **QA и Тестирование:** Playwright, Pytest, Allure Reports, REST, gRPC, Postman, JMeter
+* **Базы данных и брокеры сообщений:** PostgreSQL, ClickHouse, Redis, Kafka, RabbitMQ, DataWarehouse
+* **Инфраструктура и CI/CD:** Docker / Docker Compose, Git, GitLab CI, GitHub Actions, Nginx
+* **Мониторинг и Observability:** Prometheus, Grafana, Sentry
 
-**LLM Browser Agent**  
-Агент для автоматизации действий в браузере (Playwright + LLM).  
-Модульная архитектура, работа с DOM, защита от опасных действий.
+---
 
-**Media Downloader Service**  
-Высоконагруженный сервис загрузки медиа (Telegram + yt-dlp).  
-Очереди и кэширование через Redis, обход ограничений Telegram.
+### Проекты
 
-**B2B система записи**  
-Backend на FastAPI: REST API, асинхронные интеграции, фоновые задачи.
+* **[Browser Agent](https://github.com/4e6yPeK48/browser-agent):** Автономный браузер-агент, использующий LLM для управления браузером через Playwright и выполнения пользовательских задач.
+* **[Media Downloader Service](https://github.com/4e6yPeK48/yt-dlp-telegram-bot):** Высоконагруженный асинхронный микросервис для потоковой загрузки медиафайлов.
+* **[CLI Nginx Analyzer](https://github.com/4e6yPeK48/nginx-access-log-analyzer-cli):** Инструмент для парсинга access-логов и расчета перцентилей (p95/p99) с оптимизацией потребления памяти через потоковую обработку (stdin/stdout).
 
-**Dota 2 Match Prediction (ML)**  
-ML-пайплайн (ROC-AUC 0.70): feature engineering, temporal CV, стекинг моделей.
+---
 
-**CLI-анализатор логов Nginx**  
-Анализ p95/p99, потоковая обработка, интеграция в Linux-пайплайны.
+### Контакты
 
-## Опыт
-
-- Разработка прототипа чат-бота для Шереметьево  
-- Полная настройка и поддержка VPS (Docker, CI/CD, Nginx, VPN, почта)  
-- Учебный ассистент по C++ в ВШЭ  
-
-## Образование
-
-НИУ ВШЭ, ПМИ (2024–2028)  
-GPA: 8.96  
-Курсы: Промышленная разработка на Python (Яндекс; с отличием), Реляционные БД (ТГУ; с отличием)
-
-## Контакты
-
-Email: mmchupryna@edu.hse.ru  
-Telegram: @m4estro888  
-GitHub: https://github.com/4e6yPeK48
+* **Telegram:** [@m4estro888](https://t.me/m4estro888)
+* **Email:** [mmchupryna@edu.hse.ru](mailto:mmchupryna@edu.hse.ru)
